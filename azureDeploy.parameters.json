@@ -32,9 +32,6 @@
     "authenticationType": {
       "value": "password"
     },
-	"sshkey": {
-		"value": "null"
-	},
     "vmSize": {
       "value": "Standard_DS3_v2"
     },
