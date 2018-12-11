@@ -66,13 +66,10 @@
         },
         "authenticationType": {
             "type": "string",
-            "metadata": {
+            "defaultValue": "password",
+	"metadata": {
                 "descritpion": "Type of authentication "
-            },
-            "allowedValues": [
-                "password"
-            ],
-            "defaultValue": "password"
+            }
         },
         "vmSize": {
             "type": "string",
